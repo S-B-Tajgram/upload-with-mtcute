@@ -1,6 +1,6 @@
-name: The name of your action here
-description: Provide a description here
-author: Your name or organization here
+name: Upload with mtcute
+description: Upload files to Telegram with mtcute
+author: Nekogram
 
 # Add your action's branding here. This will appear on the GitHub Marketplace.
 branding:
@@ -9,15 +9,21 @@ branding:
 
 # Define your inputs here.
 inputs:
-  milliseconds:
-    description: Your input description here
+  api-id:
+    description: Telegram API ID
     required: true
-    default: '1000'
-
-# Define your outputs here.
-outputs:
-  time:
-    description: Your output description here
+  api-hash:
+    description: Telegram API Hash
+    required: true
+  bot-token:
+    description: Telegram Bot Token
+    required: true
+  chat-id:
+    description: Telegram Chat ID
+    required: true
+  files:
+    description: Files to upload
+    required: true
 
 runs:
   using: node24
