@@ -1,17 +1,17 @@
 {
   "name": "upload-with-mtcute",
-  "description": "Upload files to Telegram with mtcute",
+  "description": "Upload files to Tajgram with mtcute",
   "version": "0.0.0",
-  "author": "Nekogram",
+  "author": " Tajgram",
   "type": "module",
   "private": true,
-  "homepage": "https://github.com/Nekogram/upload-with-mtcute",
+  "homepage": "https://github.com/S-B-Tajgram/upload-with-mtcute",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Nekogram/upload-with-mtcute.git"
+    "url": "git+https://github.com/S-B-Tajgram/upload-with-mtcute.git"
   },
   "bugs": {
-    "url": "https://github.com/Nekogram/upload-with-mtcute/issues"
+    "url": "https://github.com/S-B-Tajgram/upload-with-mtcute/issues"
   },
   "keywords": [
     "actions"
