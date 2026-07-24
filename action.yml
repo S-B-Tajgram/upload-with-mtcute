@@ -1,6 +1,6 @@
-name: Upload with mtcute
-description: Upload files to Telegram with mtcute
-author: Nekogram
+name: Tajgram Uploader
+description: Automated APK uploader for Tajgram project
+author: Tajgram
 
 # Add your action's branding here. This will appear on the GitHub Marketplace.
 branding:
