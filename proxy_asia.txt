@@ -1,13 +1,15 @@
-# MTProto ASIA (10)
-# Updated: 2026-08-03 21:20:13.289787+00:00
+# MTProto ASIA (12)
+# Updated: 2026-08-03 23:17:09.831925+00:00
 
-tg://proxy?server=feed.fast-proxy.ink&port=443&secret=ee3001f44afccd358abf35cf2bebf2b50f666565642e666173742d70726f78792e696e6b
-tg://proxy?server=best-proxy.ink&port=443&secret=ee041a76d99194e7dda929e9379d686cd2626573742d70726f78792e696e6b
-tg://proxy?server=relay2.best-proxy.ink&port=443&secret=eee751f2db32edcfc86330057749a3ab9472656c6179322e626573742d70726f78792e696e6b
+tg://proxy?server=neo-vpn.ink&port=443&secret=ee941827d00b169bd4df5fc7d8dc06d0ad6e656f2d76706e2e696e6b
+tg://proxy?server=fast-proxy.ink&port=443&secret=ee98e83ac6806491b9501d3a61cdd59c71666173742d70726f78792e696e6b
 tg://proxy?server=medblock.ink&port=443&secret=ee48995b34487bfb1cb562552a585da0ea6d6564626c6f636b2e696e6b
 tg://proxy?server=best-proxy.ink&port=443&secret=eecd52b1146f6670de19bc5bf189d1ab58626573742d70726f78792e696e6b
-tg://proxy?server=neo-vpn.ink&port=443&secret=eea40b9cca8c9d1e4eba3c50c16d38358a6e656f2d76706e2e696e6b
-tg://proxy?server=neo-vpn.ink&port=443&secret=ee0581778381eb30c9f9403b6178b212c46e656f2d76706e2e696e6b
-tg://proxy?server=fast-proxy.ink&port=443&secret=ee98e83ac6806491b9501d3a61cdd59c71666173742d70726f78792e696e6b
 tg://proxy?server=live.best-proxy.ink&port=443&secret=eee49c0c36df83f06e456ffbe5b7b3a73c6c6976652e626573742d70726f78792e696e6b
+tg://proxy?server=neo-vpn.ink&port=443&secret=ee0581778381eb30c9f9403b6178b212c46e656f2d76706e2e696e6b
 tg://proxy?server=data.fast-proxy.ink&port=443&secret=eef6d54c631f71a854601ed95ca53e02b0646174612e666173742d70726f78792e696e6b
+tg://proxy?server=panel.neo-vpn.ink&port=443&secret=eeb4ea209a41744fcfe544c552c134b0a670616e656c2e6e656f2d76706e2e696e6b
+tg://proxy?server=best-proxy.ink&port=443&secret=ee041a76d99194e7dda929e9379d686cd2626573742d70726f78792e696e6b
+tg://proxy?server=neo-vpn.ink&port=443&secret=eea40b9cca8c9d1e4eba3c50c16d38358a6e656f2d76706e2e696e6b
+tg://proxy?server=relay2.best-proxy.ink&port=443&secret=eee751f2db32edcfc86330057749a3ab9472656c6179322e626573742d70726f78792e696e6b
+tg://proxy?server=feed.fast-proxy.ink&port=443&secret=ee3001f44afccd358abf35cf2bebf2b50f666565642e666173742d70726f78792e696e6b
