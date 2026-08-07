@@ -1,4 +1,7 @@
-# MTProto ASIA (1)
-# Updated: 2026-08-07 20:55:26.791995+00:00
+# MTProto ASIA (4)
+# Updated: 2026-08-07 22:51:23.340716+00:00
 
 tg://proxy?server=lynette.myrka.digital&port=443&secret=ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c
+tg://proxy?server=neo-vpn.ink&port=443&secret=eea40b9cca8c9d1e4eba3c50c16d38358a6e656f2d76706e2e696e6b
+tg://proxy?server=relay2.best-proxy.ink&port=443&secret=eee751f2db32edcfc86330057749a3ab9472656c6179322e626573742d70726f78792e696e6b
+tg://proxy?server=panel.neo-vpn.ink&port=443&secret=eeb4ea209a41744fcfe544c552c134b0a670616e656c2e6e656f2d76706e2e696e6b
