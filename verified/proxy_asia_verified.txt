@@ -1,4 +1,4 @@
 # MTProto ASIA (1)
-# Updated: 2026-08-10 22:53:06.325203+00:00
+# Updated: 2026-08-11 01:13:27.115415+00:00
 
 tg://proxy?server=lynette.myrka.digital&port=443&secret=ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c
