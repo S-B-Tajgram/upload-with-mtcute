@@ -1,6 +1,3 @@
-# MTProto ASIA (3)
-# Updated: 2026-08-12 11:18:36.356144+00:00
+# MTProto ASIA (0)
+# Updated: 2026-08-12 13:07:36.653893+00:00
 
-tg://proxy?server=data.fast-proxy.ink&port=443&secret=eef6d54c631f71a854601ed95ca53e02b0646174612e666173742d70726f78792e696e6b
-tg://proxy?server=lynette.myrka.digital&port=443&secret=ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c
-tg://proxy?server=live.best-proxy.ink&port=443&secret=eee49c0c36df83f06e456ffbe5b7b3a73c6c6976652e626573742d70726f78792e696e6b
