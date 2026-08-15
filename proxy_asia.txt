@@ -1,4 +1,3 @@
-# MTProto ASIA (1)
-# Updated: 2026-08-15 18:40:13.040037+00:00
+# MTProto ASIA (0)
+# Updated: 2026-08-15 20:38:01.046946+00:00
 
-tg://proxy?server=neo-vpn.ink&port=443&secret=eea40b9cca8c9d1e4eba3c50c16d38358a6e656f2d76706e2e696e6b
