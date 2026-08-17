@@ -1,147 +1,141 @@
-# Proxies with domain (144)
-# Updated: 2026-08-17 10:49:40.839497+00:00
+# Proxies with domain (138)
+# Updated: 2026-08-17 12:47:06.557706+00:00
 
 tg://proxy?server=38.246.245.30&port=2000&secret=eeb148aece20418b54b24b7651d406f83c6173703330302e636e # domain: h atkvq<asp300.cn
 tg://proxy?server=45.196.97.238&port=2000&secret=ee66743e081f38916ffa948aeaf9f94c616173703330302e636e # domain: ft>8olaasp300.cn
-tg://proxy?server=89.208.84.89&port=443&secret=ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c # domain: tpg!p{llynette.myrka.digital
+tg://proxy?server=tt2.myrka.digital&port=8443&secret=ee888877776666555544443333222211117474322e6d79726b612e6469676974616c # domain: wwffuudd33""tt2.myrka.digital
+tg://proxy?server=jarko.myrka.digital&port=443&secret=ee04daa35f7150d1d16c43f270c26831086a61726b6f2e6d79726b612e6469676974616c # domain: _qplcph1jarko.myrka.digital
 tg://proxy?server=172.65.122.51&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d # domain: dbiz ]cdn.yektanet.com
 tg://proxy?server=172.65.105.80&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d # domain: dbiz ]cdn.yektanet.com
-tg://proxy?server=172.65.131.91&port=25565&secret=ee79e344818749bd7ac519130220c25d09 # domain: ydiz ]
-tg://proxy?server=sioms.co.uk&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d # domain: dbiz ]cdn.yektanet.com
+tg://proxy?server=mc-ssh.t-proxyru.info.&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d # domain: dbiz ]cdn.yektanet.com
 tg://proxy?server=fresh.t-proxy.info&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d # domain: dbiz ]cdn.yektanet.com
 tg://proxy?server=fresh.t-proxy.info.&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d # domain: dbiz ]cdn.yektanet.com
 tg://proxy?server=googel.alo-otp.info.&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d # domain: dbiz ]cdn.yektanet.com
 tg://proxy?server=mc-ssh.t-proxyru.info&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d # domain: dbiz ]cdn.yektanet.com
-tg://proxy?server=shop.royayeman.co.uk&port=443&secret=ee79e344818749bd7ac519130220c25d092e2e626973636f7474692e79656b74616e65742e636f6d # domain: ydiz ]..biscotti.yektanet.com
 tg://proxy?server=can.you.tell.me.how.can.i.bokhoramet.kiroftopmine.site.&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d # domain: dbiz ]cdn.yektanet.com
 tg://proxy?server=dark.canmycheshm.co.uk.&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d # domain: dbiz ]cdn.yektanet.com
 tg://proxy?server=172.237.109.209&port=1080&secret=ee79e344818749bd7ac519130220c25d09 # domain: ydiz ]
-tg://proxy?server=31.56.54.109&port=443&secret=ee5622e11fff3e49bcc85280197a6106b5742e6d656f772d6e6574776f726b2e636f6d # domain: v">irzat.meow-network.com
 tg://proxy?server=132.243.235.201&port=443&secret=ee9e0de647c5d593c800e577d6cc16f41d79616e6465782e7275 # domain: g
-tg://proxy?server=217.76.51.63&port=8443&secret=ee3c699c57134bf3963fa562d5554d87e76b72797468616e6f2e636f6d # domain: <iwk?bumkrythano.com
+tg://proxy?server=31.56.54.109&port=443&secret=ee5622e11fff3e49bcc85280197a6106b5742e6d656f772d6e6574776f726b2e636f6d # domain: v">irzat.meow-network.com
 tg://proxy?server=217.60.35.13&port=47043&secret=ee7723b339dfe5b5c9d7e36ee2da0e720a74672e70696e6b7765622e78797a # domain: w#9nrtg.pinkweb.xyz
 tg://proxy?server=222.167.228.2&port=853&secret=eeb63ea09be7a8fe1eca00c0e99e97d832766b2e636f6d # domain: >
 tg://proxy?server=download.lv426.co.uk.&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169 # domain: /web.bale.ai
-tg://proxy?server=mc-ssh.t-proxyru.info.&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d # domain: dbiz ]cdn.yektanet.com
-tg://proxy?server=bin.mdnk.fun&port=443&secret=ee528a8923aaf3441d3a3652bd37e33a56706574726f766963682e7275 # domain: r#d:6r7:vpetrovich.ru
-tg://proxy?server=proxy3.mdnk.fun&port=443&secret=eec547ec12995f5e3501903a74c8c38945706574726f766963682e7275 # domain: g_^5:tepetrovich.ru
+tg://proxy?server=179.237.76.238&port=443&secret=ee271a79a8c3ffc97950025632d757aa227777772e6d736e2e636f6d # domain: 'yypv2w"www.msn.com
+tg://proxy?server=150.241.68.96&port=443&secret=ee6d6963726f736f66742e636f6dd95c # domain: microsoft.com\
 tg://proxy?server=proxy1.mdnk.fun&port=443&secret=eec547ec12995f5e3501903a74c8c38945706574726f766963682e7275 # domain: g_^5:tepetrovich.ru
+tg://proxy?server=bin.mdnk.fun&port=443&secret=ee528a8923aaf3441d3a3652bd37e33a56706574726f766963682e7275 # domain: r#d:6r7:vpetrovich.ru
 tg://proxy?server=proxy.mdnk.fun&port=443&secret=eec547ec12995f5e3501903a74c8c38945706574726f766963682e7275 # domain: g_^5:tepetrovich.ru
-tg://proxy?server=94.183.177.239&port=443&secret=ee1f1e82326bfdd9633604a61d7df8018d7777772e6d6963726f736f66742e7275 # domain: 2kc6}www.microsoft.ru
-tg://proxy?server=132.243.235.196&port=443&secret=ee5895bbd18604365e8d18b63af6c3bfbe79616e6465782e7275 # domain: x6^:yandex.ru
-tg://proxy?server=132.243.235.143&port=443&secret=ee1a043ca04520458fe7fc96309b095f3679616e6465782e7275 # domain: <e e0_6yandex.ru
+tg://proxy?server=proxy3.mdnk.fun&port=443&secret=eec547ec12995f5e3501903a74c8c38945706574726f766963682e7275 # domain: g_^5:tepetrovich.ru
 tg://proxy?server=85.17.89.193&port=443&secret=ee76f6583e6b509d946c56287a9ca59dc362726f7773696e672e79616e6465782e636f6d # domain: vx>kplv(zbrowsing.yandex.com
-tg://proxy?server=132.243.235.187&port=443&secret=ee89db719934b04d0875b8a84c948e57fa79616e6465782e7275 # domain: q4mulwyandex.ru
 tg://proxy?server=45.38.23.169&port=443&secret=eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275 # domain: 4x^7mail.ru
-tg://proxy?server=72.56.25.212&port=443&secret=ee7d026761b388c46302df84b4b812aef0706574726f766963682e7275 # domain: }gacpetrovich.ru
 tg://proxy?server=132.243.235.189&port=443&secret=ee580a561631a7217d4a0607bb2be8930e79616e6465782e7275 # domain: xv1!}j+yandex.ru
-tg://proxy?server=89.125.17.165&port=443&secret=ee2111222233334444555566667777888862726f777365722e79616e6465782e636f6d # domain: !""33dduuffwwbrowser.yandex.com
-tg://proxy?server=194.213.3.123&port=7443&secret=ee3b78c4fdc8699b12406578ea8183325b7275747562652e7275 # domain: ;xi@ex2[rutube.ru
-tg://proxy?server=162.35.231.5&port=443&secret=eeb60a356b95cffb3e62d2d7f3a3995e576164732e78352e7275 # domain: 5k>b^wads.x5.ru
-tg://proxy?server=167.86.100.17&port=443&secret=eee26c8002852c6d9c74ec17c8532d2dfb636c6f7564666c6172652e636f6d # domain: l,mts--cloudflare.com
-tg://proxy?server=2.27.25.192&port=443&secret=ee038521d3753473464064e3bb49abadb26d61696c2e7275 # domain: !u4sf@dimail.ru
-tg://proxy?server=45.86.153.138&port=443&secret=ee07266a279143bcff09a5e484abb277636972616e2e6d69642e7275 # domain: &j'cwciran.mid.ru
-tg://proxy?server=50.7.41.162&port=443&secret=ee011808bcccfd224644ca7f231846a7d46d61782e7275 # domain: "fd#fmax.ru
-tg://proxy?server=144.31.229.115&port=59105&secret=ee74de2744cd6e7d76dd27f016d5a6ec666164732e78352e7275 # domain: t'dn}v'fads.x5.ru
+tg://proxy?server=176.57.69.182&port=53627&secret=ee42eb79c1df22d7be6de261ce63082a4d31632e7275 # domain: by"mac*m1c.ru
 tg://proxy?server=132.243.213.215&port=443&secret=ee46f33d84ae85e3ad53567904d7199be7706574726f766963682e7275 # domain: f=svypetrovich.ru
-tg://proxy?server=2.27.4.58&port=443&secret=ee9d343635a76a38133c6d01e1c81f50cf706574726f766963682e7275 # domain: 465j8<mppetrovich.ru
-tg://proxy?server=88.99.194.177&port=443&secret=ee7d1689af98d5e4d8f6caa0ed19d737b662726f7773696e672e79616e6465782e636f6d # domain: }7browsing.yandex.com
 tg://proxy?server=91.108.248.229&port=443&secret=eec16575954a98f1f3277fc329ec45a75279616e6465782e7275 # domain: euj')eryandex.ru
 tg://proxy?server=89.125.1.94&port=22&secret=ee63de76d8c349c5cd1fea58831dcd843731632e7275 # domain: cvix71c.ru
-tg://proxy?server=77.239.125.158&port=443&secret=ee15465e6f97a4ca60ab5db03332290d6b77622e7275 # domain: f^o`]32)kwb.ru
-tg://proxy?server=212.80.7.145&port=443&secret=ee3f354f86e59e2c166c83031772d92d6379612e7275 # domain: ?5o,lr-cya.ru
-tg://proxy?server=171.22.31.13&port=443&secret=ee3f354f86e59e2c166c83031772d92d6379612e7275 # domain: ?5o,lr-cya.ru
-tg://proxy?server=br.nowabst.net&port=853&secret=eefdf6175e50069c01bd22d786534aa2b2766b2e636f6d # domain: ^p"sjvk.com
-tg://proxy?server=2.26.98.207&port=443&secret=ee3f354f86e59e2c166c83031772d92d6379612e7275 # domain: ?5o,lr-cya.ru
-tg://proxy?server=2.27.22.112&port=443&secret=ee17ea0a2562ea669ebe7308ee7f9ae63b706574726f766963682e7275 # domain: %bfs;petrovich.ru
-tg://proxy?server=212.80.7.148&port=443&secret=ee3f354f86e59e2c166c83031772d92d6379612e7275 # domain: ?5o,lr-cya.ru
-tg://proxy?server=77.73.135.166&port=443&secret=ee41ab28a235a527f950facce3193ad74e766b2e636f6d # domain: a(5'p:nvk.com
-tg://proxy?server=31.76.252.63&port=443&secret=ee1b070c7fb30dc084cb271ecec5e2b8456f7a6f6e2e7275 # domain: 'eozon.ru
+tg://proxy?server=162.35.231.5&port=443&secret=eeb60a356b95cffb3e62d2d7f3a3995e576164732e78352e7275 # domain: 5k>b^wads.x5.ru
+tg://proxy?server=132.243.235.187&port=443&secret=ee89db719934b04d0875b8a84c948e57fa79616e6465782e7275 # domain: q4mulwyandex.ru
+tg://proxy?server=167.86.100.17&port=443&secret=eee26c8002852c6d9c74ec17c8532d2dfb636c6f7564666c6172652e636f6d # domain: l,mts--cloudflare.com
 tg://proxy?server=150.241.70.0&port=443&secret=eefd4933b3863b668128a246b6cb2249016170692d6d6170732e79616e6465782e7275 # domain: i3;f(f"iapi-maps.yandex.ru
-tg://proxy?server=147.45.68.25&port=443&secret=ee17352c284a418ed218cc6bbda02c0aac766b2e636f6d # domain: 5,(jak,vk.com
-tg://proxy?server=api.nowabst.net&port=853&secret=ee4b0955a40972e28dc3e76df92e9a3f1e766b2e636f6d # domain: kurm.?vk.com
-tg://proxy?server=77.73.135.70&port=443&secret=ee24fc31cd01228525d9052a343acbe717766b2e636f6d # domain: $1"%*4:vk.com
+tg://proxy?server=72.56.25.212&port=443&secret=ee7d026761b388c46302df84b4b812aef0706574726f766963682e7275 # domain: }gacpetrovich.ru
+tg://proxy?server=171.22.31.13&port=443&secret=ee3f354f86e59e2c166c83031772d92d6379612e7275 # domain: ?5o,lr-cya.ru
+tg://proxy?server=2.27.4.58&port=443&secret=ee9d343635a76a38133c6d01e1c81f50cf706574726f766963682e7275 # domain: 465j8<mppetrovich.ru
+tg://proxy?server=94.183.177.239&port=443&secret=ee1f1e82326bfdd9633604a61d7df8018d7777772e6d6963726f736f66742e7275 # domain: 2kc6}www.microsoft.ru
+tg://proxy?server=132.243.235.196&port=443&secret=ee5895bbd18604365e8d18b63af6c3bfbe79616e6465782e7275 # domain: x6^:yandex.ru
+tg://proxy?server=ge.nowabst.net&port=853&secret=ee5a281fcc91f7ec3ce293d643395222ad766b2e636f6d # domain: z(<c9r"vk.com
+tg://proxy?server=212.80.7.145&port=443&secret=ee3f354f86e59e2c166c83031772d92d6379612e7275 # domain: ?5o,lr-cya.ru
 tg://proxy?server=2.26.98.209&port=443&secret=ee3f354f86e59e2c166c83031772d92d6379612e7275 # domain: ?5o,lr-cya.ru
-tg://proxy?server=176.57.69.182&port=53627&secret=ee42eb79c1df22d7be6de261ce63082a4d31632e7275 # domain: by"mac*m1c.ru
-tg://proxy?server=87.120.196.107&port=443&secret=eeaeda0a9e21c49a45d2b1d0e836d511456f7a6f6e2e7275 # domain: !e6eozon.ru
-tg://proxy?server=201.3.237.32&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275 # domain: ?kj7xapi.ozon.ru
-tg://proxy?server=31.41.33.114&port=443&secret=eee854b22396ba5a74f23b6f126108294a6972616e2e6d69642e7275 # domain: t#zt;oa)jiran.mid.ru
-tg://proxy?server=95.85.229.179&port=443&secret=ee622d6fd556bda9b8fb87dd10aafdcb8563646e2e67616d652e7275 # domain: b-ovcdn.game.ru
-tg://proxy?server=201.3.237.250&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275 # domain: ?kj7xapi.ozon.ru
-tg://proxy?server=191.44.112.217&port=443&secret=eea65c7fc5a0d5669ba371a7ca88fc19496f7a6f6e2e7275 # domain: \fqiozon.ru
-tg://proxy?server=147.45.68.59&port=443&secret=eeea62717efcf6c6c3beba94b1f8a4166a766b2e636f6d # domain: bq~jvk.com
-tg://proxy?server=2.27.59.225&port=443&secret=eebe232d8569992025370b3fd21684a9576c696e6b2e6d61782e7275 # domain: #-i %7?wlink.max.ru
-tg://proxy?server=201.3.237.249&port=443&secret=ee616cf892574b078aab3f73e63b8b7df4786170692e6f7a6f6e2e7275 # domain: alwk?s;}xapi.ozon.ru
-tg://proxy?server=213.176.94.29&port=443&secret=ee79612e727533b76a10ec4f6547a7a2 # domain: ya.ru3joeg
-tg://proxy?server=95.85.229.15&port=443&secret=ee622d6fd556bda9b8fb87dd10aafdcb8563646e2e67616d652e7275 # domain: b-ovcdn.game.ru
+tg://proxy?server=2.27.25.192&port=443&secret=ee038521d3753473464064e3bb49abadb26d61696c2e7275 # domain: !u4sf@dimail.ru
+tg://proxy?server=144.31.229.115&port=59105&secret=ee74de2744cd6e7d76dd27f016d5a6ec666164732e78352e7275 # domain: t'dn}v'fads.x5.ru
+tg://proxy?server=2.26.98.207&port=443&secret=ee3f354f86e59e2c166c83031772d92d6379612e7275 # domain: ?5o,lr-cya.ru
+tg://proxy?server=31.76.252.63&port=443&secret=ee1b070c7fb30dc084cb271ecec5e2b8456f7a6f6e2e7275 # domain: 'eozon.ru
+tg://proxy?server=194.213.3.123&port=7443&secret=ee3b78c4fdc8699b12406578ea8183325b7275747562652e7275 # domain: ;xi@ex2[rutube.ru
+tg://proxy?server=2.27.22.112&port=443&secret=ee17ea0a2562ea669ebe7308ee7f9ae63b706574726f766963682e7275 # domain: %bfs;petrovich.ru
 tg://proxy?server=45.198.0.146&port=443&secret=ee6d765666d7e5821f9683c7b541759a2b7275747562652e7275 # domain: mvvfau+rutube.ru
-tg://proxy?server=201.3.237.175&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275 # domain: ?kj7xapi.ozon.ru
-tg://proxy?server=95.85.229.13&port=443&secret=ee622d6fd556bda9b8fb87dd10aafdcb8563646e2e67616d652e7275 # domain: b-ovcdn.game.ru
-tg://proxy?server=89.127.201.206&port=443&secret=ee02ad2cb059cc54486e3499efc3170e2c7777772e617669746f2e7275 # domain: ,ythn4,www.avito.ru
-tg://proxy?server=87.120.196.120&port=443&secret=ee0633b85d1a833b1291402d71beb35d916f7a6f6e2e7275 # domain: 3];@-q]ozon.ru
-tg://proxy?server=br.nowabst.net&port=443&secret=eefdf6175e50069c01bd22d786534aa2b2766b2e636f6d # domain: ^p"sjvk.com
-tg://proxy?server=gw.nowabst.net&port=853&secret=ee6104d5fd936c4930978f0227166deaa96164732e78352e7275 # domain: ali0'mads.x5.ru
+tg://proxy?server=201.3.237.250&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275 # domain: ?kj7xapi.ozon.ru
+tg://proxy?server=147.45.68.25&port=443&secret=ee17352c284a418ed218cc6bbda02c0aac766b2e636f6d # domain: 5,(jak,vk.com
+tg://proxy?server=31.41.33.114&port=443&secret=eee854b22396ba5a74f23b6f126108294a6972616e2e6d69642e7275 # domain: t#zt;oa)jiran.mid.ru
+tg://proxy?server=88.99.194.177&port=443&secret=ee7d1689af98d5e4d8f6caa0ed19d737b662726f7773696e672e79616e6465782e636f6d # domain: }7browsing.yandex.com
 tg://proxy?server=cdn.nowabst.net&port=853&secret=ee55aabc9752a9d9d379e02943cf811795766b2e636f6d # domain: ury)cvk.com
-tg://proxy?server=193.233.139.92&port=443&secret=eede9514d46c8d152452b6de4879c15299706574726f766963682e7275 # domain: l$rhyrpetrovich.ru
-tg://proxy?server=31.58.137.124&port=443&secret=eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275 # domain: 4x^7mail.ru
-tg://proxy?server=play.vkmtp.pro&port=443&secret=ee616cf892574b078aab3f73e63b8b7df4786170692e6f7a6f6e2e7275 # domain: alwk?s;}xapi.ozon.ru
-tg://proxy?server=mt.nowabst.net&port=853&secret=ee4e9fcd5caf6e9be2f8ec43e370e902d6766b2e636f6d # domain: n\ncpvk.com
-tg://proxy?server=mtp.nowabst.net&port=853&secret=ee82ce1f84af4033cc7e7b021069be3d5b6164732e78352e7275 # domain: @3~{i=[ads.x5.ru
-tg://proxy?server=ge.nowabst.net&port=853&secret=eefdf6175e50069c01bd22d786534aa2b26164732e78352e7275 # domain: ^p"sjads.x5.ru
-tg://proxy?server=node.nowabst.net&port=853&secret=eef17eaf287401413739814ccc05a709a66164732e78352e7275 # domain: ~(ta79lads.x5.ru
-tg://proxy?server=150.241.75.150&port=443&secret=ee79616e6465782e7275450845a3ade2 # domain: yandex.ruee
-tg://proxy?server=2.27.48.133&port=4443&secret=ee6a14612e64a2d1c3a9d71012bc57f7d7706574726f766963682e7275 # domain: ja.dwpetrovich.ru
-tg://proxy?server=mtp3.hlebushek.com&port=443&secret=ee49b03637799a40446509a268d99ff91b706574726f766963682e7275 # domain: i67y@dehpetrovich.ru
-tg://proxy?server=147.45.79.137&port=443&secret=eea90f801141cbf3154444b618e56f7976766b2e636f6d # domain: addoyvvk.com
-tg://proxy?server=br.nowabst.net&port=853&secret=ee5a281fcc91f7ec3ce293d643395222ad6164732e78352e7275 # domain: z(<c9r"ads.x5.ru
-tg://proxy?server=45.80.229.214&port=443&secret=ee89c7bd01d5cd8a1687f74c0fa5842c6879612e7275 # domain: l,hya.ru
-tg://proxy?server=edge.mtp.mom&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275 # domain: ?kj7xapi.ozon.ru
-tg://proxy?server=104.253.43.230&port=443&secret=ee415fbec3218718b534391d4439ab184579616e6465782e7275 # domain: a_!49d9eyandex.ru
+tg://proxy?server=213.176.94.29&port=443&secret=ee79612e727533b76a10ec4f6547a7a2 # domain: ya.ru3joeg
+tg://proxy?server=77.239.125.158&port=443&secret=ee15465e6f97a4ca60ab5db03332290d6b77622e7275 # domain: f^o`]32)kwb.ru
+tg://proxy?server=212.80.7.148&port=443&secret=ee3f354f86e59e2c166c83031772d92d6379612e7275 # domain: ?5o,lr-cya.ru
+tg://proxy?server=147.45.68.59&port=443&secret=eeea62717efcf6c6c3beba94b1f8a4166a766b2e636f6d # domain: bq~jvk.com
+tg://proxy?server=191.44.112.217&port=443&secret=eea65c7fc5a0d5669ba371a7ca88fc19496f7a6f6e2e7275 # domain: \fqiozon.ru
 tg://proxy?server=78.17.158.148&port=443&secret=ee5c7461f81aff8f5794c07f37a6db16bd666f637573706565702e7275 # domain: \taw7focuspeep.ru
-tg://proxy?server=tg.moonlunavpn.com&port=8443&secret=ee9c0c81ca3e4a84e04ba4ff5c03fafe9e79612e7275 # domain: >jk\ya.ru
-tg://proxy?server=2.26.91.70&port=8443&secret=eedd345afe9188a4e5a94dc706e1aa6cef6170692d6d6170732e79616e6465782e7275 # domain: 4zmlapi-maps.yandex.ru
-tg://proxy?server=89.125.113.11&port=443&secret=eebcb694130943ff7dcaf08c93b0564ff179616e6465782e7275 # domain: c}voyandex.ru
-tg://proxy?server=mtp2.hlebushek.com&port=443&secret=ee8263f1fdfbfa0629c67c40d208806873706574726f766963682e7275 # domain: c)|@hspetrovich.ru
-tg://proxy?server=138.124.127.179&port=443&secret=eef3c8fea5c83c9c837e5e292b2025afd8766b2e636f6d # domain: <~^)+ %vk.com
-tg://proxy?server=89.125.113.15&port=443&secret=eee2aa8eea0145d9f9807b628705d6ea9379616e6465782e7275 # domain: e{byandex.ru
-tg://proxy?server=He.jlpoKcu.cloud&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275 # domain: ?kj7xapi.ozon.ru
-tg://proxy?server=tg.kubik-network.net&port=443&secret=ee8b50acc8b83d5a37c9a36f82b7995aef77622e7275 # domain: p=z7ozwb.ru
-tg://proxy?server=104.253.43.252&port=443&secret=eee14dc96febcc0d6ea1e3f7972e286a6679616e6465782e7275 # domain: mon.(jfyandex.ru
-tg://proxy?server=aesthetic.comae.readjust.reunification.sibbing.umorina.info&port=31319&secret=ee22fe08fa186fc53eeecefac84821ed36647a656e2e7275 # domain: "o>h!6dzen.ru
-tg://proxy?server=chinoiserie.chuvash.devaporate.diffident.smokeroom.rawisda.com&port=3340&secret=ee60c1036fd0e15d88166e2715335bddd5647a656e2e7275 # domain: `o]n'3[dzen.ru
-tg://proxy?server=crusader.fontal.nonchalance.teleseryeshd.com&port=443&secret=ee399f69b4015f49b46dc2aff7b84f1e1d647a656e2e7275 # domain: 9i_imodzen.ru
+tg://proxy?server=201.3.237.249&port=443&secret=ee616cf892574b078aab3f73e63b8b7df4786170692e6f7a6f6e2e7275 # domain: alwk?s;}xapi.ozon.ru
 tg://proxy?server=mtp.nowabst.net&port=853&secret=eeceaec97c86b6332adc48b3c081954e60766b2e636f6d # domain: |3*hn`vk.com
-tg://proxy?server=stable.rkn.lat&port=443&secret=ee63cd87a492fff3595fd75c82d0ec9afa636c6f756463646e2d6d392d362e63646e2e79616e6465782e6e6574 # domain: cy_\cloudcdn-m9-6.cdn.yandex.net
-tg://proxy?server=51.250.3.11&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275 # domain: j3?g1bavito.ru
-tg://proxy?server=51.250.84.196&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275 # domain: j3?g1bavito.ru
-tg://proxy?server=46.173.19.208&port=443&secret=eedddddddddddddddddddddddddddddddd6d2e6265626f6f2e7275 # domain: m.beboo.ru
-tg://proxy?server=5.35.94.53&port=443&secret=ee095072b53789bdc66d762c8b4ee7806f6d2e6265626f6f2e7275 # domain: pr7mv,nom.beboo.ru
-tg://proxy?server=neo.nowabst.net&port=853&secret=eef1a6f37d0802344061235bb7d60f3fa4766b2e636f6d # domain: }4@a#[?vk.com
-tg://proxy?server=00.kvn.nz&port=443&secret=eeebb8144cb57038df1762bc4bfd2d0e036d2e6265626f6f2e7275 # domain: lp8bk-m.beboo.ru
-tg://proxy?server=93.77.181.195&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275 # domain: j3?g1bavito.ru
-tg://proxy?server=nyakawai.shop&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275 # domain: j3?g1bavito.ru
+tg://proxy?server=95.85.229.179&port=443&secret=ee622d6fd556bda9b8fb87dd10aafdcb8563646e2e67616d652e7275 # domain: b-ovcdn.game.ru
+tg://proxy?server=193.233.139.92&port=443&secret=eede9514d46c8d152452b6de4879c15299706574726f766963682e7275 # domain: l$rhyrpetrovich.ru
+tg://proxy?server=77.73.135.166&port=443&secret=ee41ab28a235a527f950facce3193ad74e766b2e636f6d # domain: a(5'p:nvk.com
+tg://proxy?server=201.3.237.175&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275 # domain: ?kj7xapi.ozon.ru
+tg://proxy?server=77.73.135.70&port=443&secret=ee24fc31cd01228525d9052a343acbe717766b2e636f6d # domain: $1"%*4:vk.com
+tg://proxy?server=201.3.237.32&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275 # domain: ?kj7xapi.ozon.ru
+tg://proxy?server=95.85.229.13&port=443&secret=ee622d6fd556bda9b8fb87dd10aafdcb8563646e2e67616d652e7275 # domain: b-ovcdn.game.ru
+tg://proxy?server=tg.kubik-network.net&port=443&secret=ee8b50acc8b83d5a37c9a36f82b7995aef77622e7275 # domain: p=z7ozwb.ru
+tg://proxy?server=95.85.229.15&port=443&secret=ee622d6fd556bda9b8fb87dd10aafdcb8563646e2e67616d652e7275 # domain: b-ovcdn.game.ru
+tg://proxy?server=2.27.59.225&port=443&secret=eebe232d8569992025370b3fd21684a9576c696e6b2e6d61782e7275 # domain: #-i %7?wlink.max.ru
+tg://proxy?server=play.vkmtp.pro&port=443&secret=ee616cf892574b078aab3f73e63b8b7df4786170692e6f7a6f6e2e7275 # domain: alwk?s;}xapi.ozon.ru
+tg://proxy?server=45.80.229.214&port=443&secret=ee89c7bd01d5cd8a1687f74c0fa5842c6879612e7275 # domain: l,hya.ru
+tg://proxy?server=104.253.43.252&port=443&secret=eee14dc96febcc0d6ea1e3f7972e286a6679616e6465782e7275 # domain: mon.(jfyandex.ru
+tg://proxy?server=138.124.127.179&port=443&secret=eef3c8fea5c83c9c837e5e292b2025afd8766b2e636f6d # domain: <~^)+ %vk.com
+tg://proxy?server=104.253.43.230&port=443&secret=ee415fbec3218718b534391d4439ab184579616e6465782e7275 # domain: a_!49d9eyandex.ru
+tg://proxy?server=31.58.137.124&port=443&secret=eee2970b9a0d34e958110ee25e8bc8378d6d61696c2e7275 # domain: 4x^7mail.ru
+tg://proxy?server=2.27.48.133&port=4443&secret=ee6a14612e64a2d1c3a9d71012bc57f7d7706574726f766963682e7275 # domain: ja.dwpetrovich.ru
+tg://proxy?server=147.45.79.137&port=443&secret=eea90f801141cbf3154444b618e56f7976766b2e636f6d # domain: addoyvvk.com
+tg://proxy?server=89.127.201.206&port=443&secret=ee02ad2cb059cc54486e3499efc3170e2c7777772e617669746f2e7275 # domain: ,ythn4,www.avito.ru
+tg://proxy?server=br.nowabst.net&port=853&secret=eefdf6175e50069c01bd22d786534aa2b2766b2e636f6d # domain: ^p"sjvk.com
+tg://proxy?server=150.241.75.150&port=443&secret=ee79616e6465782e7275450845a3ade2 # domain: yandex.ruee
+tg://proxy?server=br.nowabst.net&port=443&secret=eefdf6175e50069c01bd22d786534aa2b2766b2e636f6d # domain: ^p"sjvk.com
+tg://proxy?server=89.125.113.15&port=443&secret=eee2aa8eea0145d9f9807b628705d6ea9379616e6465782e7275 # domain: e{byandex.ru
+tg://proxy?server=87.120.196.107&port=443&secret=eeaeda0a9e21c49a45d2b1d0e836d511456f7a6f6e2e7275 # domain: !e6eozon.ru
+tg://proxy?server=node.nowabst.net&port=853&secret=eef17eaf287401413739814ccc05a709a66164732e78352e7275 # domain: ~(ta79lads.x5.ru
+tg://proxy?server=2.26.91.70&port=8443&secret=eedd345afe9188a4e5a94dc706e1aa6cef6170692d6d6170732e79616e6465782e7275 # domain: 4zmlapi-maps.yandex.ru
+tg://proxy?server=87.120.196.120&port=443&secret=ee0633b85d1a833b1291402d71beb35d916f7a6f6e2e7275 # domain: 3];@-q]ozon.ru
 tg://proxy?server=gta5.vkmtp.pro&port=443&secret=ee616cf892574b078aab3f73e63b8b7df4786170692e6f7a6f6e2e7275 # domain: alwk?s;}xapi.ozon.ru
-tg://proxy?server=avocation.baggy.extrapolate.tautology.yearlong.kapitoshka.info&port=15398&secret=eee445670d2299e71626787ba539ce23cc647a656e2e7275 # domain: eg"&x{9#dzen.ru
-tg://proxy?server=annum.doom.increscent.margarine.proposed.rawisda.com&port=9927&secret=ee36a0d647a8cfcedd99d15b9672b7bf40647a656e2e7275 # domain: 6g[r@dzen.ru
-tg://proxy?server=95.182.93.211&port=443&secret=ee190e292873ee0ff1472ee1f81176b3957777772e636c6f7564666c6172652e636f6d # domain: )(sg.vwww.cloudflare.com
-tg://proxy?server=185.200.179.85&port=80&secret=eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d # domain: vsr0gd www.cloudflare.com
-tg://proxy?server=185.204.169.147&port=443&secret=eefd4ee2a72d1e35d89a6b0feb25febc597777772e636c6f7564666c6172652e636f6d # domain: n-5k%ywww.cloudflare.com
-tg://proxy?server=194.163.179.172&port=443&secret=eed47dd5b61f267e882607f80791350679636c6f7564666c6172652e636f6d # domain: }&~&5ycloudflare.com
+tg://proxy?server=video.mtproto.pics&port=443&secret=ee616cf892574b078aab3f73e63b8b7df4786170692e6f7a6f6e2e7275 # domain: alwk?s;}xapi.ozon.ru
+tg://proxy?server=ge.nowabst.net&port=853&secret=eefdf6175e50069c01bd22d786534aa2b26164732e78352e7275 # domain: ^p"sjads.x5.ru
+tg://proxy?server=kiushu.unsusceptible.uppish.teleseryetvreplay.com&port=443&secret=ee75595de1d97d37257c501d092288576c647a656e2e7275 # domain: uy]}7%|p"wldzen.ru
+tg://proxy?server=api.nowabst.net&port=853&secret=ee4b0955a40972e28dc3e76df92e9a3f1e766b2e636f6d # domain: kurm.?vk.com
+tg://proxy?server=89.125.113.11&port=443&secret=eebcb694130943ff7dcaf08c93b0564ff179616e6465782e7275 # domain: c}voyandex.ru
+tg://proxy?server=93.77.181.195&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275 # domain: j3?g1bavito.ru
+tg://proxy?server=dev.nowabst.net&port=853&secret=ee54079943a5db4dc9163650c09dfc806d766b2e636f6d # domain: tcm6pmvk.com
+tg://proxy?server=neo.nowabst.net&port=853&secret=eef1a6f37d0802344061235bb7d60f3fa4766b2e636f6d # domain: }4@a#[?vk.com
+tg://proxy?server=51.250.3.11&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275 # domain: j3?g1bavito.ru
+tg://proxy?server=84.23.53.64&port=443&secret=ee95aa916bd319beb312cc6ba9b2c5aef8766b2e7275 # domain: kkvk.ru
+tg://proxy?server=46.173.19.208&port=443&secret=eedddddddddddddddddddddddddddddddd6d2e6265626f6f2e7275 # domain: m.beboo.ru
+tg://proxy?server=51.250.84.196&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275 # domain: j3?g1bavito.ru
+tg://proxy?server=mtp.nowabst.net&port=853&secret=ee82ce1f84af4033cc7e7b021069be3d5b6164732e78352e7275 # domain: @3~{i=[ads.x5.ru
+tg://proxy?server=5.35.94.53&port=443&secret=ee095072b53789bdc66d762c8b4ee7806f6d2e6265626f6f2e7275 # domain: pr7mv,nom.beboo.ru
+tg://proxy?server=apache.caret.giro.personate.scorification.chuka-chuka.com&port=11041&secret=ee5d74b60cbf574baaf898e76c48e5d9cb647a656e2e7275 # domain: ]twklhdzen.ru
+tg://proxy?server=mtp2.hlebushek.com&port=443&secret=ee8263f1fdfbfa0629c67c40d208806873706574726f766963682e7275 # domain: c)|@hspetrovich.ru
+tg://proxy?server=kopeika.net&port=443&secret=eece59e04b22eb4e7e97973854a86bc257626f6f7374792e7275 # domain: yk"n~8tkwboosty.ru
+tg://proxy?server=abound.akkadian.cleuch.groundlessness.pseudopodium.wapozavr.com&port=24308&secret=ee819d4b1e8842dd9b08e2a42089a4794b647a656e2e7275 # domain: kb ykdzen.ru
+tg://proxy?server=mtp3.hlebushek.com&port=443&secret=ee49b03637799a40446509a268d99ff91b706574726f766963682e7275 # domain: i67y@dehpetrovich.ru
+tg://proxy?server=mystery.outdraught.tidal.pinoyteleseryeonline.com&port=443&secret=ee0b79bdbd7981787fc7c5ec637de07b87647a656e2e7275 # domain: yyxc}{dzen.ru
+tg://proxy?server=cracklings.descendable.rangoon.teleseryerepaly.com&port=443&secret=ee0cb8055ed28d45a4cc20cbe67325489d647a656e2e7275 # domain: ^e s%hdzen.ru
+tg://proxy?server=93.77.176.108&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275 # domain: j3?g1bavito.ru
+tg://proxy?server=stable.rkn.lat&port=443&secret=ee63cd87a492fff3595fd75c82d0ec9afa636c6f756463646e2d6d392d362e63646e2e79616e6465782e6e6574 # domain: cy_\cloudcdn-m9-6.cdn.yandex.net
+tg://proxy?server=megaconnect.click&port=443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275 # domain: j3?g1bavito.ru
+tg://proxy?server=tg.moonlunavpn.com&port=8443&secret=ee9c0c81ca3e4a84e04ba4ff5c03fafe9e79612e7275 # domain: >jk\ya.ru
+tg://proxy?server=crusader.fontal.nonchalance.teleseryeshd.com&port=443&secret=ee399f69b4015f49b46dc2aff7b84f1e1d647a656e2e7275 # domain: 9i_imodzen.ru
+tg://proxy?server=filterable.sheerlegs.supersaturate.teleseryeepisodes.com&port=443&secret=ee65232843fcdee5a1c14c38bd5a2d8c21647a656e2e7275 # domain: e#(cl8z-!dzen.ru
+tg://proxy?server=media1.happtg.org&port=443&secret=ee73e7d7fe41b49d9091f78c8c92c22de4766b2e7275 # domain: sa-vk.ru
+tg://proxy?server=s3.assetflux.org&port=443&secret=ee8fc9c7632b344b1b76639c501ae7cfb5766b2e7275 # domain: c+4kvcpvk.ru
+tg://proxy?server=95.182.114.239&port=443&secret=eeeb07bebf3a073e4c4bb4d5a19ca676ee7777772e636c6f7564666c6172652e636f6d # domain: :>lkvwww.cloudflare.com
 tg://proxy?server=45.149.154.135&port=443&secret=eed0d6e111bada5511fcce9584deadbeef73332e616d617a6f6e6177732e636f6d # domain: us3.amazonaws.com
-tg://proxy?server=79.137.196.223&port=12443&secret=eebc63866dd7a052dbd741a691486a82127777772e636c6f7564666c6172652e636f6d # domain: cmrahjwww.cloudflare.com
+tg://proxy?server=158.220.114.142&port=443&secret=ee35514a03f74ead2efe8d09c76650b72e636c6f7564666c6172652e636f6d # domain: 5qjn.fp.cloudflare.com
 tg://proxy?server=79.137.196.223&port=10443&secret=ee63fccdeb9951e5f99d66d274148278b97777772e636c6f7564666c6172652e636f6d # domain: cqftxwww.cloudflare.com
-tg://proxy?server=79.137.196.223&port=14443&secret=ee9e28cf588967add684c5e759fea036d47777772e636c6f7564666c6172652e636f6d # domain: (xgy6www.cloudflare.com
-tg://proxy?server=79.137.196.223&port=13443&secret=eee06596f5753c0dc9b56fe4864a4665e57777772e636c6f7564666c6172652e636f6d # domain: eu<ojfewww.cloudflare.com
-tg://proxy?server=frontend-resources-endpoint-api.website&port=80&secret=eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d # domain: vsr0gd www.cloudflare.com
-tg://proxy?server=p6f2a1b3-e8c4-471f-b5a6-9c2d8e7b1a4f-b5c6-d7e8.space&port=80&secret=eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d # domain: vsr0gd www.cloudflare.com
-tg://proxy?server=206.245.129.133&port=80&secret=eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d # domain: vsr0gd www.cloudflare.com
-tg://proxy?server=static-resources-api.website&port=80&secret=eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d # domain: vsr0gd www.cloudflare.com
+tg://proxy?server=79.137.196.223&port=12443&secret=eebc63866dd7a052dbd741a691486a82127777772e636c6f7564666c6172652e636f6d # domain: cmrahjwww.cloudflare.com
 tg://proxy?server=94.177.13.42&port=80&secret=eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d # domain: vsr0gd www.cloudflare.com
-tg://proxy?server=37.27.38.205&port=443&secret=ee9d659fc2ae43e0b8323c082960233d7b7777772e636c6f7564666c6172652e636f6d # domain: ec2<)`#={www.cloudflare.com
-tg://proxy?server=8f3d1c4e-a9b2-475c-8e1f-2d6a9b4c7e3f.casa&port=80&secret=eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d # domain: vsr0gd www.cloudflare.com
-tg://proxy?server=194.116.236.130&port=443&secret=eec81a4b8b082ddfd51ebce0502f46b5687777772e636c6f7564666c6172652e636f6d # domain: k-p/fhwww.cloudflare.com
-tg://proxy?server=194.116.236.130&port=443&secret=eeaa2ac361cf70e2397e180f0cfa7814ce7777772e636c6f7564666c6172652e636f6d # domain: *ap9~xwww.cloudflare.com
-tg://proxy?server=164.68.122.140&port=443&secret=ee6346164eb9fd41c57c1256c5f6c63757636c6f7564666c6172652e636f6d # domain: cfna|v7wcloudflare.com
+tg://proxy?server=79.137.196.223&port=13443&secret=eee06596f5753c0dc9b56fe4864a4665e57777772e636c6f7564666c6172652e636f6d # domain: eu<ojfewww.cloudflare.com
+tg://proxy?server=79.137.196.223&port=14443&secret=ee9e28cf588967add684c5e759fea036d47777772e636c6f7564666c6172652e636f6d # domain: (xgy6www.cloudflare.com
+tg://proxy?server=206.245.129.133&port=80&secret=eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d # domain: vsr0gd www.cloudflare.com
+tg://proxy?server=p8b2c3d4-e5f6-a7b8-c9d0-e1f2a3b4c5d6-7e8f-9a0b.space&port=80&secret=eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d # domain: vsr0gd www.cloudflare.com
+tg://proxy?server=p6f2a1b3-e8c4-471f-b5a6-9c2d8e7b1a4f-b5c6-d7e8.space&port=80&secret=eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d # domain: vsr0gd www.cloudflare.com
+tg://proxy?server=static-resources-api.website&port=80&secret=eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d # domain: vsr0gd www.cloudflare.com
+tg://proxy?server=frontend-resources-endpoint-api.website&port=80&secret=eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d # domain: vsr0gd www.cloudflare.com
 tg://proxy?server=tr.silaber.qzz.io&port=8880&secret=eec59c9f50147cb42abf6bfc03185b566a636c6f7564666c6172652e636f6d # domain: p|*k[vjcloudflare.com
+tg://proxy?server=8f3d1c4e-a9b2-475c-8e1f-2d6a9b4c7e3f.casa&port=80&secret=eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d # domain: vsr0gd www.cloudflare.com
 tg://proxy?server=russia.its-work.ru&port=443&secret=ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d # domain: 6ncloudflare.com
 tg://proxy?server=teslaa.ru&port=443&secret=eea909d758325877dd2c56fffae9b75cbb636c6f7564666c6172652e636f6d # domain: x2xw,v\cloudflare.com
