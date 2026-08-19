@@ -1,14 +1,13 @@
-# MTProto US (11)
-# Updated: 2026-08-19 16:46:05.670673+00:00
+# MTProto US (10)
+# Updated: 2026-08-19 18:44:50.562211+00:00
 
-tg://proxy?server=185.204.169.147&port=443&secret=ee41f57ff1da19c1223c9afc459c96308c7777772e636c6f7564666c6172652e636f6d
-tg://proxy?server=79.137.196.223&port=13443&secret=eee06596f5753c0dc9b56fe4864a4665e57777772e636c6f7564666c6172652e636f6d
-tg://proxy?server=79.137.196.223&port=3443&secret=eeee33159ebd0ee0dcafef811a9bc7c2ab8d7777772e636c6f7564666c6172652e636f6d
-tg://proxy?server=2.27.13.87&port=443&secret=eecbacc37ce9e2bb466ed5c782c6e64f607a6f6f6d2e7573
-tg://proxy?server=144.31.28.9&port=443&secret=eee5762d4ef1271c6544836e18463befd87a6f6f6d2e7573
+tg://proxy?server=31.220.75.69&port=443&secret=ee5fe0d31d647e9361d614a609c5fdf2a6636c6f7564666c6172652e636f6d
+tg://proxy?server=31.220.78.93&port=443&secret=ee5fcec9b1bf68764858dcb930f393ee72636c6f7564666c6172652e636f6d
 tg://proxy?server=79.137.196.223&port=10443&secret=ee63fccdeb9951e5f99d66d274148278b97777772e636c6f7564666c6172652e636f6d
+tg://proxy?server=79.137.196.223&port=13443&secret=eee06596f5753c0dc9b56fe4864a4665e57777772e636c6f7564666c6172652e636f6d
 tg://proxy?server=frontend-resources-endpoint-api.website&port=80&secret=eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d
-tg://proxy?server=x8dlyy87.helper.website&port=443&secret=eec4d4d3b9ee538338d2307be745aa8d8f636c6f7564666c6172652e636f6d
+tg://proxy?server=144.31.28.9&port=443&secret=eee5762d4ef1271c6544836e18463befd87a6f6f6d2e7573
 tg://proxy?server=static-resources-api.website&port=80&secret=eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d
-tg://proxy?server=tr.silaber.qzz.io&port=8880&secret=eec59c9f50147cb42abf6bfc03185b566a636c6f7564666c6172652e636f6d
 tg://proxy?server=df.668fx.com&port=51007&secret=ee16105b22275d1764e9dee77e1bfecd1a636c6f7564666c6172652e636f6d
+tg://proxy?server=x8dlyy87.helper.website&port=443&secret=eec4d4d3b9ee538338d2307be745aa8d8f636c6f7564666c6172652e636f6d
+tg://proxy?server=tr.silaber.qzz.io&port=8880&secret=eec59c9f50147cb42abf6bfc03185b566a636c6f7564666c6172652e636f6d
