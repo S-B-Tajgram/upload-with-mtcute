@@ -1,22 +1,18 @@
-# MTProto US (19)
-# Updated: 2026-08-24 16:50:31.339386+00:00
+# MTProto US (15)
+# Updated: 2026-08-24 18:50:06.180059+00:00
 
-tg://proxy?server=164.92.132.32&port=443&secret=ee4a5bc618f9ec539a83b1820e19ca4a7f73332e616d617a6f6e6177732e636f6d
-tg://proxy?server=31.220.78.93&port=443&secret=ee5fcec9b1bf68764858dcb930f393ee72636c6f7564666c6172652e636f6d
 tg://proxy?server=94.159.106.120&port=443&secret=ee094c74b28fa0195c624b646de6a9f04f7777772e636c6f7564666c6172652e636f6d
-tg://proxy?server=frontend-resources-endpoint-api.website&port=80&secret=eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d
-tg://proxy?server=185.204.169.147&port=443&secret=eefd4ee2a72d1e35d89a6b0feb25febc597777772e636c6f7564666c6172652e636f6d
-tg://proxy?server=207.180.240.199&port=443&secret=eea53b6e987fc7b16bb71bff869731448e636c6f7564666c6172652e636f6d
-tg://proxy?server=79.137.196.223&port=7443&secret=eeeeb30662ee79541fb143515ad872d2e9dd7777772e636c6f7564666c6172652e636f6d
 tg://proxy?server=79.137.196.223&port=13443&secret=eee06596f5753c0dc9b56fe4864a4665e57777772e636c6f7564666c6172652e636f6d
+tg://proxy?server=79.137.196.223&port=443&secret=eeee525b778775d1c3b1e2beb8af08e2017777772e636c6f7564666c6172652e636f6d
 tg://proxy?server=79.137.196.223&port=14443&secret=ee9e28cf588967add684c5e759fea036d47777772e636c6f7564666c6172652e636f6d
+tg://proxy?server=164.92.132.32&port=443&secret=ee4a5bc618f9ec539a83b1820e19ca4a7f73332e616d617a6f6e6177732e636f6d
+tg://proxy?server=79.137.196.223&port=12443&secret=eebc63866dd7a052dbd741a691486a82127777772e636c6f7564666c6172652e636f6d
 tg://proxy?server=191.44.114.219&port=443&secret=ee5024c74cb910d050d450c0b5981bab7f7a6f6f6d2e7573
-tg://proxy?server=2.27.13.87&port=443&secret=eecbacc37ce9e2bb466ed5c782c6e64f607a6f6f6d2e7573
-tg://proxy?server=164.68.122.140&port=443&secret=ee6346164eb9fd41c57c1256c5f6c63757636c6f7564666c6172652e636f6d
 tg://proxy?server=flux.lovely.lat&port=443&secret=ee6f8c7d9193585ada7d22acf074ad6d97666c75782e6c6f76656c792e6c6174
+tg://proxy?server=2.27.13.87&port=443&secret=eecbacc37ce9e2bb466ed5c782c6e64f607a6f6f6d2e7573
 tg://proxy?server=pulse.lovely.lat&port=443&secret=ee6f8c7d9193585ada7d22acf074ad6d9770756c73652e6c6f76656c792e6c6174
-tg://proxy?server=x8dlyy87.helper.website&port=443&secret=eec4d4d3b9ee538338d2307be745aa8d8f636c6f7564666c6172652e636f6d
+tg://proxy?server=204.168.197.199&port=443&secret=eeaa16be732bcf0c80b07dbb4d072a037e636c6f7564666c6172652e636f6d
+tg://proxy?server=frontend-resources-endpoint-api.website&port=80&secret=eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d
 tg://proxy?server=static-resources-api.website&port=80&secret=eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d
-tg://proxy?server=82.152.162.5&port=10002&secret=ee548593a9c0688f4f7d9d57377897d964636c6f7564666c6172652e636f6d
-tg://proxy?server=finka.flarevpn.icu&port=443&secret=ee1a31e852cedfd9537e1463f6532bd6ce7777772e636c6f7564666c6172652e636f6d
-tg://proxy?server=derap.blazepath.info&port=443&secret=ee79e251f7127de5efcd71ddd19f7f688f636c6f7564666c6172652e636f6d
+tg://proxy?server=x8dlyy87.helper.website&port=443&secret=eec4d4d3b9ee538338d2307be745aa8d8f636c6f7564666c6172652e636f6d
+tg://proxy?server=aparat.moon-night.ir&port=443&secret=ee7e39295072a943a297c1267e22cb25dc73332e616d617a6f6e6177732e636f6d
